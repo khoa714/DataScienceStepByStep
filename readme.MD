@@ -1,4 +1,4 @@
 # Core values
-<br> Before pursuading you to spending time working with me on a series of sort and practical excercises, here are some core values that will guide us through
-* Everyone can learn to perform data analytics efficiently
+<br> Before we start, let me share with youth my beliefs 
+* Everyone can learn to perform data analytics efficiently (and this is *beyond* programming)
 * Having
