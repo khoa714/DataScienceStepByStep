@@ -3,9 +3,8 @@
 <p> The attached slide deck draws insights from the public data to create a static map of violent gun crimes in Chicago in 2019 by community area. I have also added a layer for the number of public schools in each area.
 
 <p> Notes
-* Violent gun crime includes assault, battery, criminal sexual assault, and robbery. Weapon law violations are not included.
 
-<p>Data sources
+* Violent gun crime includes assault, battery, criminal sexual assault, and robbery. Weapon law violations are not included.
 
 * Chicago Community Areas Boundaries
 https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Community-Areas-current-/cauq-8yn6
